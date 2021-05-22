@@ -8,6 +8,9 @@ Tableau Public
 Dashboard link:
 https://public.tableau.com/views/1_project/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
+![Final](https://user-images.githubusercontent.com/82667439/119223564-0f14da00-baaf-11eb-8847-25ba44810ed6.jpg)
+
+
 Objectives:
 1) what is the Total net- revenue
 2) what is the total daily value
